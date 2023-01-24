@@ -1,0 +1,4 @@
+[submodule "external/vulnerabilities"]
+	path = external/vulnerabilities
+	url = https://github.com/tholian-network/vulnerabilities
+	branch = main
